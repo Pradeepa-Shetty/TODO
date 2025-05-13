@@ -6,17 +6,12 @@
 }
 
 .container {
-    width: 100%;
-    min-height: 100vh;
-    /* background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%); */
-    /* background-image: radial-gradient( circle 897px at 9% 80.3%,  rgba(55,60,245,1) 0%, rgba(234,161,15,0.90) 100.2% ); */
-    /* background-image: linear-gradient( 108.7deg,  rgba(221,22,224,1) 11%, rgba(111,22,190,1) 88.2% ); */
-    /* background-image: linear-gradient( 109.6deg,  rgba(102,51,153,1) 11.2%, rgba(2,0,4,1) 91.1% ); */
-    /* background: linear-gradient(135deg,#153677,#4e085f); */
-    background-color: #f907fc;
-background-image: linear-gradient(315deg, #f907fc 0%, #05d6d9 74%);
-    padding: 10px;
+  width: 100%;
+  min-height: 100vh;
+  background-image: linear-gradient(135deg, #000000 0%, #00ffd5 100%);
+  padding: 10px;
 }
+
 
 .todo-app {
     width: 100%;
